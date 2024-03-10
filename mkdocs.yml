@@ -1,0 +1,17 @@
+site_name: Vokabeln DGS1
+site_url: https://dgs.github.io/
+repo_url: https://github.com/RincewindWizzard/dgs-kurs-vokabeln
+edit_uri: ./edit/main/docs/
+
+theme:
+  name: readthedocs
+  language: de
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Lektion 1: 01_chapter.md
+
