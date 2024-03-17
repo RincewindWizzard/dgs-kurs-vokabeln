@@ -1,0 +1,33 @@
+# Lektion 2
+
+- [irgendwann](https://signdict.org/entry/2034-irgendwann)
+- [gleich (von vergleichen)](https://signdict.org/entry/1813-gleich)
+- [anders](https://signdict.org/entry/949-anders-anderer)
+- das selbe
+- [Fingeralphabet](https://signdict.org/entry/1625-fingeralphabet)
+- [Tschüss / Hallo](https://signdict.org/entry/293-hallo)
+- [noch einmal](https://signdict.org/entry/2618-nochmal)
+- [lange (zeitlich)](https://signdict.org/entry/2304-lange)
+- [Bild](https://signdict.org/entry/1210-bild)
+- [Danke](https://signdict.org/entry/1360-danke)
+- [bitte (Wunsch)](https://signdict.org/entry/110-bitte)
+- [ja](https://signdict.org/entry/2042-ja)
+- [nein](https://signdict.org/entry/2582-nein)
+- Zwischenspiel
+- [sehen](https://signdict.org/entry/4739-sehen)
+- wiedersehen, wie "sehen" nur kommt die Hand erst zu den Augen dreht und dann "sehen"
+- [schreiben](https://signdict.org/entry/3051-schreiben)
+- [zeichnen](https://signdict.org/entry/3775-zeichnen)
+- [stimmen (von Zustimmung)](https://signdict.org/entry/3259-stimmt)
+- eintragen; eine Hand flach mit Innenseite nach oben die andere darauf herabfallend
+- [Pause](https://signdict.org/entry/566-pause/video/5073)
+- Pause (von Feierabend); zwei Vs übereinander gekreuzt
+- [Guten Morgen](https://signdict.org/entry/1859-guten-morgen)
+- [Guten Tag](https://signdict.org/entry/1860-guten-tag/video/2094)
+- Grüß [Gott](https://signdict.org/entry/1826-gott)
+- [arbeiten](https://signdict.org/entry/993-arbeiten)
+- [Hund](https://signdict.org/entry/324-hund/video/4324)
+- [keine Lust haben](https://signdict.org/entry/2118-keine-lust-haben)
+- [Spaß](https://signdict.org/entry/3194-spa%C3%9F)
+- [spazieren](https://signdict.org/entry/3195-spazieren)
+- [Spiegel](https://signdict.org/entry/3201-spiegel)
